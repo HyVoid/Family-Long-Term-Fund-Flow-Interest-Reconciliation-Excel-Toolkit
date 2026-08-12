@@ -1,0 +1,6 @@
+{
+  "name": "Family Long-Term Fund Flow & Interest Reconciliation Excel Toolkit",
+  "description": "Family long-term fund flow historical balance and interest accounting system with dynamic interest rate schedule, real-time calculation engine, and backup management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
