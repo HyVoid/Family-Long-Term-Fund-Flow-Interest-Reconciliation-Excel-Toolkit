@@ -4,7 +4,7 @@ Reconstruct years of family fund transfers, track outstanding principal and accr
 
 > ## ✅ No signup. No installation. Free.
 >
-> **🌐 Browser Version**  👉 [*HTML Demo*](https://hyvoid.github.io/Manufacturing-Labor-Cost-Capacity-Planning-Toolkit/)
+> **🌐 Browser Version**  👉 [*HTML Demo*](https://hyvoid.github.io/Family-Long-Term-Fund-Flow-Interest-Reconciliation-Excel-Toolkit/)
 >
 > **📥 Excel Version**   👉[*Download Link*](https://alexhasgreatestuff.gumroad.com/l/auauhp)
 > 
