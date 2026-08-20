@@ -2,6 +2,15 @@
 
 Reconstruct years of family fund transfers, track outstanding principal and accrued interest, and see the current balance clearly — without rebuilding a complicated spreadsheet from scratch.
 
+> ## ✅ No signup. No installation. Free.
+>
+> **🌐 Browser Version**  👉 [*HTML Demo*](https://hyvoid.github.io/Manufacturing-Labor-Cost-Capacity-Planning-Toolkit/)
+>
+> **📥 Excel Version**   👉[*Download Link*](https://alexhasgreatestuff.gumroad.com/l/auauhp)
+> 
+
+---
+
 ### What this tool helps you do
 
 * Reconstruct long-term two-way fund movements into a consistent historical record.
