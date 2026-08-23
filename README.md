@@ -2,7 +2,9 @@
 
 Reconstruct years of family fund transfers, track outstanding principal and accrued interest, and see the current balance clearly — without rebuilding a complicated spreadsheet from scratch.
 
-> ## ✅ No signup. No installation. Free.
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 >
 > **🌐 Browser Version**  👉 [*HTML Demo*](https://hyvoid.github.io/Family-Long-Term-Fund-Flow-Interest-Reconciliation-Excel-Toolkit/)
 >
