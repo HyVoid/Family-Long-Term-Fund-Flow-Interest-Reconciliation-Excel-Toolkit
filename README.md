@@ -8,7 +8,7 @@ Try the browser version for free. If you need the Excel version, you can buy it 
 >
 > **🌐 Browser Version**  👉 [*HTML Demo*](https://hyvoid.github.io/Family-Long-Term-Fund-Flow-Interest-Reconciliation-Excel-Toolkit/)
 >
-> **📥 Excel Version**   👉[*Download Link*](https://alexhasgreatestuff.gumroad.com/l/auauhp)
+> **📥 Excel Version**   👉[*Download Link*](https://alexhasgreatestuff.gumroad.com/l/auauhp?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=family-fund-interest-reconciliation)
 > 
 
 ---
